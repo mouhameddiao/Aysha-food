@@ -24,7 +24,7 @@ const Sidebar = () => {
         {/* Logo */}
         <div className="flex items-center justify-center p-4 border-b border-gray-200">
           <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Rrr4k6XYaBAbZfNZVJR3eizZw3ZNXafsDg&s"
+            src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-f00c-61f7-bd56-1e452902df72/raw?se=2025-04-19T22%3A38%3A25Z&sp=r&sv=2024-08-04&sr=b&scid=da965f45-850d-5bf3-8b3b-32212f1bc390&skoid=cbbaa726-4a2e-4147-932c-56e6e553f073&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-19T18%3A57%3A02Z&ske=2025-04-20T18%3A57%3A02Z&sks=b&skv=2024-08-04&sig=YRtbFn7mpXH1ssq1TmRuDK%2BiJdlHEifk%2BfLrM2Ubvtg%3D"
             alt="logo"
             className="h-10 w-auto"
           />
