@@ -19,7 +19,7 @@ const Home = () => {
       name: "Tiebou Dieune",
       description: "Riz au poisson traditionnel du Sénégal, garni de légumes.",
       image:
-        "https://senecuisine.com/wp-content/uploads/2020/09/thi%C3%A9bou-dieune-696x669.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1R-u0tfi-cAl3wk7nRfv6D48jNKkft3f_w&s",
       price: 6500,
     },
     {
@@ -44,15 +44,13 @@ const Home = () => {
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
         <div className="relative z-10 text-center px-4">
           <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-6 drop-shadow-lg">
-            Bienvenue Chez Khaa-dee-Jaa Food
+            Bienvenue Chez KhaadeeJaa Food
           </h1>
           <p className="text-lg md:text-xl text-white mb-8 drop-shadow-lg">
             Savourez nos plats exquis et laissez-vous séduire par notre service
             de qualité.
           </p>
-          <button className="bg-yellow-500 text-white px-6 md:px-8 py-3 md:py-4 text-sm md:text-lg font-semibold rounded hover:bg-yellow-600 transition duration-300 shadow-lg">
-            Explorer le Menu
-          </button>
+         
         </div>
       </section>
 
